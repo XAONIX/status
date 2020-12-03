@@ -5,7 +5,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 71
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 97,
+    "timeDay": 125,
+    "timeWeek": 97,
+    "timeMonth": 97,
+    "timeYear": 97
   },
   {
     "name": "Wikipedia",
@@ -13,7 +21,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 54
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 79,
+    "timeDay": 124,
+    "timeWeek": 79,
+    "timeMonth": 79,
+    "timeYear": 79
   },
   {
     "name": "Hacker News",
@@ -21,7 +37,15 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "time": 365
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 436,
+    "timeDay": 353,
+    "timeWeek": 436,
+    "timeMonth": 436,
+    "timeYear": 436
   },
   {
     "name": "Broken Site",
@@ -29,14 +53,30 @@
     "slug": "broken-site",
     "status": "down",
     "uptime": "100.00%",
-    "time": 0
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "98.01%",
-    "time": 0
+    "uptime": "97.15%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "53.39%",
+    "uptimeMonth": "89.27%",
+    "uptimeYear": "97.15%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   }
 ]
