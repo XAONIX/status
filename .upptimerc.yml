@@ -6,7 +6,7 @@ sites:
     url: https://genlex.app/
 
 status-website:
-  baseUrl: /
+  cname: status.genlex.app
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status GENLex
   introTitle: "**GENLex** Status Page"
