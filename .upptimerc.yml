@@ -16,14 +16,10 @@ status-website:
   theme: night
   logoUrl: https://raw.githubusercontent.com/XAONIX/status/master/xaonix.svg
   name: Status Page
-  introTitle: "**Welcome**"
-  introMessage: This is XAONIX apps monitoring status page.
+  introTitle: "**Welcome** to the services Status Page"
+  introMessage: Please, visit this page whenever you want to check the status of XAONIX services and apps. Here we will also publish information about **scheduled maintenance**.
   navbar:
-    - title: Home
+    - title: Status
       href: /
-    - title: Webiste
-      href: https://xaonix.com/
-    - title: Twitter
-      href: https://twitter.com/xaonix_com
-    - title: Instagram
-      href: https://www.instagram.com/xaonix_com/
+    - title: GitHub
+      href: https://github.com/XAONIX  
