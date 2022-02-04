@@ -11,7 +11,7 @@ sites:
 
 status-website:
   cname: status.xaonix.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/XAONIX/status/master/xaonix.svg
   name: XAONIX Service Status Page
   introTitle: "**XAONIX** Service Status Page"
   introMessage: Página de monitoramento do GENLex App.
