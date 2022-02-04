@@ -2,17 +2,21 @@ owner: ricardomaia
 repo: upptime
 
 sites:
+  - name: XAONIX.com
+    url: https://xaonix.com/
   - name: GenLex
     url: https://genlex.app/
+  - name: SignAll
+    url: https://signall.app/
 
 status-website:
-  cname: status.genlex.app
+  cname: status.xaonix.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status GENLex
-  introTitle: "**GENLex** Status Page"
+  name: XAONIX Service Status Page
+  introTitle: "**XAONIX** Service Status Page"
   introMessage: Página de monitoramento do GENLex App.
   navbar:
-    - title: Status GENLex
+    - title: Home
       href: /
-    - title: GENLex App
-      href: https://genlex.app/
+    - title: XAONIX Website
+      href: https://xaonix.com/
