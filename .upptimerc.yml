@@ -11,11 +11,11 @@ sites:
 
 status-website:
   cname: status.xaonix.com
-  theme: night
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/XAONIX/status/master/xaonix.svg
-  name: Status Page
-  introTitle: "**XAONIX** Service Status Page"
-  introMessage: Página de monitoramento do GENLex App.
+  # name: Status Page
+  introTitle: "**Status Page**"
+  introMessage: XAONIX apps monitoring status page.
   navbar:
     - title: Home
       href: /
