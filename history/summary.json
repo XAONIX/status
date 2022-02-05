@@ -4,36 +4,40 @@
     "url": "https://xaonix.com/",
     "icon": "https://favicons.githubusercontent.com/xaonix.com",
     "slug": "xaonix-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 414,
-    "timeDay": 414,
+    "timeDay": 571,
     "timeWeek": 414,
     "timeMonth": 414,
     "timeYear": 414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-05": 0
+    }
   },
   {
     "name": "GenLex",
     "url": "https://genlex.app/",
     "icon": "https://favicons.githubusercontent.com/genlex.app",
     "slug": "gen-lex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 191,
+    "timeDay": 103,
     "timeWeek": 191,
     "timeMonth": 191,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-05": 0
+    }
   },
   {
     "name": "SignAll",
@@ -47,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 242,
+    "timeDay": 199,
     "timeWeek": 242,
     "timeMonth": 242,
     "timeYear": 242,
