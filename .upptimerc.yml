@@ -14,6 +14,7 @@ status-website:
   faviconSvg: https://raw.githubusercontent.com/XAONIX/status/master/favicon.svg
   cname: status.xaonix.com
   theme: night
+  css: ":root{ --up-border-left-color: #4cffaa; --down-border-left-color: #eb8799; } article.up { border-left: 0.7rem solid; } article.down { border-left: 0.7rem solid; }"
   logoUrl: https://raw.githubusercontent.com/XAONIX/status/master/xaonix.svg
   name: Status Page
   introTitle: "**Welcome** to the services Status Page"
@@ -23,7 +24,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/XAONIX
-   css: ":root{ --up-border-left-color: #4cffaa; --down-border-left-color: #eb8799; } article.up { border-left: 0.7rem solid; } article.down { border-left: 0.7rem solid; }"
-
 i18n:
   footer: XAONIX - Technologies for a new human.
