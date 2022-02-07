@@ -22,4 +22,8 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/XAONIX  
+      href: https://github.com/XAONIX
+   css: ":root{ --up-border-left-color: #4cffaa; --down-border-left-color: #eb8799; } article.up { border-left: 0.7rem solid; } article.down { border-left: 0.7rem solid; }"
+
+i18n:
+  footer: XAONIX - Technologies for a new human.
