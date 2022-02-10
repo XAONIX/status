@@ -8,8 +8,6 @@ sites:
     url: https://genlex.app/
   - name: SignAll
     url: https://signall.app/
-  - name: Down Site
-    url: https://downsitetest.xaonix.co/
 
 status-website:
   favicon: https://raw.githubusercontent.com/XAONIX/status/master/favicon.png
