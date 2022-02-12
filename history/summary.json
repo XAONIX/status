@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 554,
     "timeDay": 711,
-    "timeWeek": 619,
+    "timeWeek": 650,
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 177,
-    "timeWeek": 170,
+    "timeWeek": 161,
     "timeMonth": 178,
     "timeYear": 178,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://signall.app/",
     "icon": "https://favicons.githubusercontent.com/signall.app",
     "slug": "sign-all",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 267,
     "timeMonth": 259,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   }
 ]
