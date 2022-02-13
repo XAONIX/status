@@ -4,9 +4,9 @@
     "url": "https://xaonix.com/",
     "icon": "https://favicons.githubusercontent.com/xaonix.com",
     "slug": "xaonix-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 613,
     "timeMonth": 537,
     "timeYear": 537,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   },
   {
     "name": "GenLex",
@@ -40,19 +42,19 @@
     "url": "https://signall.app/",
     "icon": "https://favicons.githubusercontent.com/signall.app",
     "slug": "sign-all",
-    "status": "down",
-    "uptime": "97.56%",
-    "uptimeDay": "79.35%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.56%",
-    "time": 259,
-    "timeDay": 0,
-    "timeWeek": 265,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "status": "up",
+    "uptime": "97.07%",
+    "uptimeDay": "75.07%",
+    "uptimeWeek": "96.44%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "97.07%",
+    "time": 262,
+    "timeDay": 314,
+    "timeWeek": 270,
+    "timeMonth": 262,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-02-13": 79,
+      "2022-02-13": 141,
       "2022-02-12": 218
     }
   }
