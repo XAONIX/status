@@ -8,6 +8,8 @@ sites:
     url: https://genlex.app/
   - name: SignAll
     url: https://signall.app/
+  - name: LoftyTools
+    url: https://lofty.tools/    
 
 status-website:
   favicon: https://raw.githubusercontent.com/XAONIX/status/master/favicon.png
