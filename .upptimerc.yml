@@ -9,7 +9,10 @@ sites:
   - name: SignAll
     url: https://signall.app/
   - name: LoftyTools
-    url: https://lofty.tools/    
+    url: https://lofty.tools/
+  - name: Spookfish Server
+    url: $SPOOKFISH_SERVER
+    __dangerous__insecure: true
 
 status-website:
   favicon: https://raw.githubusercontent.com/XAONIX/status/master/favicon.png
