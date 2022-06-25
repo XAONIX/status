@@ -98,19 +98,19 @@
     "url": "$SPOOKFISH_SERVER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "spookfish-server",
-    "status": "down",
-    "uptime": "98.06%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "98.06%",
-    "uptimeYear": "98.06%",
-    "time": 576,
-    "timeDay": 576,
-    "timeWeek": 576,
-    "timeMonth": 576,
-    "timeYear": 576,
+    "status": "up",
+    "uptime": "95.58%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "95.58%",
+    "uptimeYear": "95.58%",
+    "time": 8816,
+    "timeDay": 8816,
+    "timeWeek": 8816,
+    "timeMonth": 8816,
+    "timeYear": 8816,
     "dailyMinutesDown": {
-      "2022-06-25": 21
+      "2022-06-25": 49
     }
   }
 ]
