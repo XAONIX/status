@@ -52,11 +52,11 @@
     "icon": "https://favicons.githubusercontent.com/signall.app",
     "slug": "sign-all",
     "status": "up",
-    "uptime": "94.20%",
+    "uptime": "94.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.20%",
+    "uptimeYear": "94.23%",
     "time": 243,
     "timeDay": 305,
     "timeWeek": 248,
@@ -98,17 +98,19 @@
     "url": "$SPOOKFISH_SERVER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "spookfish-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 574,
     "timeDay": 574,
     "timeWeek": 574,
     "timeMonth": 574,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-25": 0
+    }
   }
 ]
