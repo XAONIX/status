@@ -6,8 +6,6 @@ sites:
     url: https://xaonix.com/
   - name: GenLex
     url: https://genlex.app/
-  - name: SignAll
-    url: https://signall.app/
   - name: LoftyTools
     url: https://lofty.tools/
   - name: Spookfish Server
