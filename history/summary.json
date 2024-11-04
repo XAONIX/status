@@ -29,7 +29,7 @@
     "uptime": "68.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.40%",
+    "uptimeMonth": "34.43%",
     "uptimeYear": "12.10%",
     "time": 7431,
     "timeDay": 541,
@@ -366,19 +366,19 @@
     "url": "https://lofty.tools/",
     "icon": "https://icons.duckduckgo.com/ip3/lofty.tools.ico",
     "slug": "lofty-tools",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 126,
-    "timeWeek": 283,
+    "timeDay": 169,
+    "timeWeek": 274,
     "timeMonth": 222,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-11-04": 0
+      "2024-11-04": 11
     }
   },
   {
@@ -398,7 +398,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 984,
+      "2024-11-04": 994,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
