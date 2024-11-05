@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 3082,
-    "timeDay": 2998,
-    "timeWeek": 2786,
-    "timeMonth": 2788,
-    "timeYear": 2904,
+    "timeDay": 2561,
+    "timeWeek": 2819,
+    "timeMonth": 2785,
+    "timeYear": 2901,
     "dailyMinutesDown": {
       "2024-03-27": 21,
       "2024-02-02": 21
@@ -27,17 +27,16 @@
     "slug": "gen-lex",
     "status": "up",
     "uptime": "68.07%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "35.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "35.51%",
     "uptimeYear": "12.10%",
-    "time": 7433,
-    "timeDay": 624,
-    "timeWeek": 655,
-    "timeMonth": 2966,
-    "timeYear": 10582,
+    "time": 7434,
+    "timeDay": 623,
+    "timeWeek": 646,
+    "timeMonth": 2578,
+    "timeYear": 10583,
     "dailyMinutesDown": {
-      "2024-11-04": 11,
       "2024-10-24": 919,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
@@ -373,10 +372,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 169,
-    "timeWeek": 274,
-    "timeMonth": 222,
+    "time": 228,
+    "timeDay": 144,
+    "timeWeek": 231,
+    "timeMonth": 220,
     "timeYear": 239,
     "dailyMinutesDown": {}
   },
@@ -397,7 +396,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 1282,
+      "2024-11-05": 28,
+      "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
@@ -760,8 +760,7 @@
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
-      "2023-11-07": 1440,
-      "2023-11-06": 1440
+      "2023-11-07": 1440
     }
   }
 ]
