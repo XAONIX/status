@@ -6,17 +6,16 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 3074,
-    "timeDay": 4141,
-    "timeWeek": 3008,
-    "timeMonth": 2826,
-    "timeYear": 2908,
+    "timeDay": 2482,
+    "timeWeek": 2959,
+    "timeMonth": 2819,
+    "timeYear": 2906,
     "dailyMinutesDown": {
-      "2024-11-25": 10,
       "2024-03-27": 21,
       "2024-02-02": 21
     }
@@ -27,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "up",
-    "uptime": "68.70%",
+    "uptime": "68.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "12.10%",
-    "time": 7511,
-    "timeDay": 602,
-    "timeWeek": 597,
-    "timeMonth": 615,
-    "timeYear": 10551,
+    "time": 7512,
+    "timeDay": 517,
+    "timeWeek": 602,
+    "timeMonth": 613,
+    "timeYear": 10553,
     "dailyMinutesDown": {
       "2024-10-24": 919,
       "2024-10-23": 1440,
@@ -373,11 +372,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 496,
-    "timeWeek": 210,
-    "timeMonth": 242,
-    "timeYear": 243,
+    "time": 231,
+    "timeDay": 276,
+    "timeWeek": 236,
+    "timeMonth": 247,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   },
   {
@@ -386,7 +385,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "28.89%",
+    "uptime": "28.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -397,7 +396,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 230,
+      "2024-11-26": 30,
+      "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -760,8 +760,7 @@
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
-      "2023-11-28": 1440,
-      "2023-11-27": 1440
+      "2023-11-28": 1440
     }
   }
 ]
