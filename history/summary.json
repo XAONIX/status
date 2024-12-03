@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3080,
-    "timeDay": 2789,
-    "timeWeek": 2945,
-    "timeMonth": 2904,
-    "timeYear": 2903,
+    "time": 3081,
+    "timeDay": 2763,
+    "timeWeek": 3038,
+    "timeMonth": 2905,
+    "timeYear": 2901,
     "dailyMinutesDown": {
       "2024-03-27": 21,
       "2024-02-02": 21
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "up",
-    "uptime": "68.91%",
+    "uptime": "68.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "12.10%",
-    "time": 7520,
-    "timeDay": 596,
-    "timeWeek": 650,
-    "timeMonth": 614,
-    "timeYear": 10565,
+    "time": 7521,
+    "timeDay": 533,
+    "timeWeek": 652,
+    "timeMonth": 612,
+    "timeYear": 10566,
     "dailyMinutesDown": {
       "2024-10-24": 919,
       "2024-10-23": 1440,
@@ -373,10 +373,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 349,
-    "timeWeek": 318,
-    "timeMonth": 252,
-    "timeYear": 246,
+    "timeDay": 265,
+    "timeWeek": 317,
+    "timeMonth": 254,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   },
   {
@@ -385,7 +385,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "28.66%",
+    "uptime": "28.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -396,7 +396,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-02": 33,
+      "2024-12-03": 32,
+      "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -759,8 +760,7 @@
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-05": 1440
     }
   }
 ]
