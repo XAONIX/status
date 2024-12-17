@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3070,
-    "timeDay": 3411,
-    "timeWeek": 2673,
-    "timeMonth": 2850,
-    "timeYear": 2883,
+    "time": 3068,
+    "timeDay": 2402,
+    "timeWeek": 2677,
+    "timeMonth": 2807,
+    "timeYear": 2882,
     "dailyMinutesDown": {
       "2024-03-27": 21,
       "2024-02-02": 21
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "up",
-    "uptime": "69.32%",
+    "uptime": "69.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "14.08%",
-    "time": 7537,
-    "timeDay": 533,
-    "timeWeek": 612,
-    "timeMonth": 615,
-    "timeYear": 10257,
+    "uptimeYear": "14.36%",
+    "time": 7538,
+    "timeDay": 497,
+    "timeWeek": 596,
+    "timeMonth": 607,
+    "timeYear": 10224,
     "dailyMinutesDown": {
       "2024-10-24": 919,
       "2024-10-23": 1440,
@@ -347,8 +347,7 @@
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   },
   {
@@ -363,10 +362,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 512,
-    "timeWeek": 371,
-    "timeMonth": 304,
-    "timeYear": 251,
+    "timeDay": 364,
+    "timeWeek": 340,
+    "timeMonth": 300,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   },
   {
@@ -375,7 +374,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "28.22%",
+    "uptime": "28.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -386,7 +385,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-16": 33,
+      "2024-12-17": 31,
+      "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -749,8 +749,7 @@
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   }
 ]
