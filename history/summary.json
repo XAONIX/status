@@ -6,17 +6,16 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3057,
-    "timeDay": 2580,
-    "timeWeek": 2686,
-    "timeMonth": 2806,
+    "time": 3056,
+    "timeDay": 2993,
+    "timeWeek": 2728,
+    "timeMonth": 2815,
     "timeYear": 2882,
     "dailyMinutesDown": {
-      "2024-12-17": 8,
       "2024-03-27": 21,
       "2024-02-02": 21
     }
@@ -27,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "up",
-    "uptime": "69.37%",
+    "uptime": "69.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "14.55%",
-    "time": 7538,
-    "timeDay": 497,
-    "timeWeek": 596,
-    "timeMonth": 607,
-    "timeYear": 10224,
+    "uptimeYear": "14.63%",
+    "time": 7540,
+    "timeDay": 781,
+    "timeWeek": 599,
+    "timeMonth": 614,
+    "timeYear": 10191,
     "dailyMinutesDown": {
       "2024-10-24": 919,
       "2024-10-23": 1440,
@@ -347,8 +346,7 @@
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
-      "2023-12-20": 1440,
-      "2023-12-19": 1440
+      "2023-12-20": 1440
     }
   },
   {
@@ -363,10 +361,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 364,
-    "timeWeek": 340,
-    "timeMonth": 300,
-    "timeYear": 252,
+    "timeDay": 116,
+    "timeWeek": 333,
+    "timeMonth": 292,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   },
   {
@@ -375,7 +373,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "28.17%",
+    "uptime": "28.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -386,7 +384,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-17": 1055,
+      "2024-12-18": 30,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -749,8 +748,7 @@
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
-      "2023-12-20": 1440,
-      "2023-12-19": 1440
+      "2023-12-20": 1440
     }
   }
 ]
