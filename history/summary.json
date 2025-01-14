@@ -6,17 +6,16 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
-    "time": 3018,
-    "timeDay": 3352,
-    "timeWeek": 3171,
-    "timeMonth": 3035,
-    "timeYear": 2880,
+    "time": 3010,
+    "timeDay": 3034,
+    "timeWeek": 3189,
+    "timeMonth": 3066,
+    "timeYear": 2881,
     "dailyMinutesDown": {
-      "2025-01-13": 6,
       "2024-12-31": 70,
       "2024-03-27": 21,
       "2024-02-02": 21
@@ -28,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "up",
-    "uptime": "70.13%",
+    "uptime": "70.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.85%",
-    "time": 7569,
-    "timeDay": 777,
-    "timeWeek": 669,
-    "timeMonth": 623,
-    "timeYear": 9409,
+    "uptimeYear": "22.03%",
+    "time": 7570,
+    "timeDay": 736,
+    "timeWeek": 661,
+    "timeMonth": 622,
+    "timeYear": 9382,
     "dailyMinutesDown": {
       "2024-10-24": 919,
       "2024-10-23": 1440,
@@ -321,8 +320,7 @@
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
-      "2024-01-16": 1440,
-      "2024-01-15": 1440
+      "2024-01-16": 1440
     }
   },
   {
@@ -336,10 +334,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 291,
-    "timeWeek": 256,
-    "timeMonth": 263,
+    "time": 239,
+    "timeDay": 414,
+    "timeWeek": 294,
+    "timeMonth": 268,
     "timeYear": 252,
     "dailyMinutesDown": {}
   },
@@ -349,7 +347,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "27.36%",
+    "uptime": "27.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -360,7 +358,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-13": 537,
+      "2025-01-14": 28,
+      "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
@@ -723,8 +722,7 @@
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
-      "2024-01-16": 1440,
-      "2024-01-15": 1440
+      "2024-01-16": 1440
     }
   }
 ]
