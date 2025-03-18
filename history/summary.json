@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.07%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "96.75%",
     "uptimeYear": "99.71%",
-    "time": 2979,
-    "timeDay": 2459,
-    "timeWeek": 2589,
-    "timeMonth": 2822,
-    "timeYear": 2884,
+    "time": 2969,
+    "timeDay": 2658,
+    "timeWeek": 2317,
+    "timeMonth": 2820,
+    "timeYear": 2882,
     "dailyMinutesDown": {
       "2025-03-11": 66,
       "2025-03-10": 151,
@@ -31,18 +31,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "67.39%",
+    "uptime": "67.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "25.60%",
-    "time": 8591,
+    "time": 8615,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 8433,
+    "timeYear": 8415,
     "dailyMinutesDown": {
-      "2025-03-17": 32,
+      "2025-03-18": 30,
+      "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -312,8 +313,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
-      "2024-03-19": 1440,
-      "2024-03-18": 1440
+      "2024-03-19": 1440
     }
   },
   {
@@ -328,9 +328,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 204,
-    "timeWeek": 232,
-    "timeMonth": 394,
+    "timeDay": 303,
+    "timeWeek": 238,
+    "timeMonth": 387,
     "timeYear": 263,
     "dailyMinutesDown": {}
   },
@@ -340,7 +340,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "25.64%",
+    "uptime": "25.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -351,7 +351,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 32,
+      "2025-03-18": 30,
+      "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -714,8 +715,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
-      "2024-03-19": 1440,
-      "2024-03-18": 1440
+      "2024-03-19": 1440
     }
   }
 ]
