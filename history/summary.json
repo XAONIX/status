@@ -8,13 +8,13 @@
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.23%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "99.67%",
-    "time": 2995,
-    "timeDay": 2452,
-    "timeWeek": 2378,
-    "timeMonth": 2987,
-    "timeYear": 2920,
+    "time": 2996,
+    "timeDay": 4352,
+    "timeWeek": 2647,
+    "timeMonth": 2998,
+    "timeYear": 2924,
     "dailyMinutesDown": {
       "2025-03-27": 95,
       "2025-03-26": 26,
@@ -36,18 +36,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "66.28%",
+    "uptime": "66.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "25.60%",
-    "time": 9061,
+    "time": 9087,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 8133,
+    "timeYear": 8113,
     "dailyMinutesDown": {
-      "2025-04-05": 30,
+      "2025-04-06": 34,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -317,8 +318,7 @@
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
-      "2024-04-07": 1440,
-      "2024-04-06": 1440
+      "2024-04-07": 1440
     }
   },
   {
@@ -333,10 +333,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 386,
-    "timeWeek": 236,
-    "timeMonth": 248,
-    "timeYear": 266,
+    "timeDay": 255,
+    "timeWeek": 241,
+    "timeMonth": 244,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   },
   {
@@ -345,7 +345,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "25.16%",
+    "uptime": "25.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -356,7 +356,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 31,
+      "2025-04-06": 34,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -719,8 +720,7 @@
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
-      "2024-04-07": 1440,
-      "2024-04-06": 1440
+      "2024-04-07": 1440
     }
   }
 ]
