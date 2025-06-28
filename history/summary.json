@@ -6,17 +6,17 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.63%",
-    "time": 2878,
-    "timeDay": 2502,
-    "timeWeek": 2490,
-    "timeMonth": 2666,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.64%",
+    "time": 2877,
+    "timeDay": 2289,
+    "timeWeek": 2502,
+    "timeMonth": 2670,
     "timeYear": 2855,
     "dailyMinutesDown": {
-      "2025-06-27": 40,
+      "2025-06-27": 32,
       "2025-06-26": 3,
       "2025-05-11": 163,
       "2025-03-27": 95,
@@ -39,18 +39,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "61.82%",
+    "uptime": "61.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "25.60%",
-    "time": 8763,
+    "time": 8747,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 6265,
+    "timeYear": 6228,
     "dailyMinutesDown": {
-      "2025-06-27": 419,
+      "2025-06-28": 33,
+      "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -320,8 +321,7 @@
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 1440
+      "2024-06-29": 1440
     }
   },
   {
@@ -336,10 +336,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 188,
-    "timeWeek": 246,
-    "timeMonth": 230,
-    "timeYear": 261,
+    "timeDay": 119,
+    "timeWeek": 241,
+    "timeMonth": 229,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   },
   {
@@ -348,7 +348,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "23.25%",
+    "uptime": "23.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -359,7 +359,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 419,
+      "2025-06-28": 33,
+      "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -722,8 +723,7 @@
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 1440
+      "2024-06-29": 1440
     }
   }
 ]
