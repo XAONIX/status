@@ -6,17 +6,16 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.63%",
-    "time": 2849,
-    "timeDay": 2604,
-    "timeWeek": 2507,
-    "timeMonth": 2640,
-    "timeYear": 2849,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.64%",
+    "time": 2848,
+    "timeDay": 2380,
+    "timeWeek": 2515,
+    "timeMonth": 2615,
+    "timeYear": 2848,
     "dailyMinutesDown": {
-      "2025-06-29": 11,
       "2025-06-27": 32,
       "2025-06-26": 3,
       "2025-05-11": 163,
@@ -40,18 +39,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "61.70%",
+    "uptime": "61.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "25.60%",
-    "time": 8731,
+    "time": 8716,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 6190,
+    "timeYear": 6154,
     "dailyMinutesDown": {
-      "2025-06-29": 1219,
+      "2025-06-30": 37,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -321,8 +321,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   },
   {
@@ -337,10 +336,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 197,
-    "timeWeek": 214,
-    "timeMonth": 232,
-    "timeYear": 260,
+    "timeDay": 429,
+    "timeWeek": 256,
+    "timeMonth": 239,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   },
   {
@@ -360,7 +359,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 1219,
+      "2025-06-30": 38,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -723,8 +723,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   }
 ]
