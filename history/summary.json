@@ -6,17 +6,16 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.63%",
     "time": 2846,
-    "timeDay": 2780,
-    "timeWeek": 2501,
-    "timeMonth": 2536,
-    "timeYear": 2849,
+    "timeDay": 2892,
+    "timeWeek": 2521,
+    "timeMonth": 2567,
+    "timeYear": 2850,
     "dailyMinutesDown": {
-      "2025-07-03": 14,
       "2025-06-30": 19,
       "2025-06-27": 32,
       "2025-06-26": 3,
@@ -41,18 +40,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "61.53%",
+    "uptime": "61.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "25.60%",
-    "time": 8684,
+    "time": 8669,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 6042,
     "dailyMinutesDown": {
-      "2025-07-03": 337,
+      "2025-07-04": 34,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -322,8 +322,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -338,10 +337,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 122,
-    "timeWeek": 181,
-    "timeMonth": 230,
-    "timeYear": 260,
+    "timeDay": 132,
+    "timeWeek": 173,
+    "timeMonth": 223,
+    "timeYear": 259,
     "dailyMinutesDown": {}
   },
   {
@@ -350,7 +349,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "23.13%",
+    "uptime": "23.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -361,7 +360,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-03": 337,
+      "2025-07-04": 34,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -724,8 +724,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   }
 ]
