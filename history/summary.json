@@ -6,12 +6,12 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.58%",
     "time": 2889,
-    "timeDay": 3108,
+    "timeDay": 3368,
     "timeWeek": 2747,
     "timeMonth": 3074,
     "timeYear": 2918,
@@ -46,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "59.03%",
+    "uptime": "59.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 4285,
     "dailyMinutesDown": {
-      "2025-08-25": 34,
+      "2025-08-25": 652,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -336,9 +336,9 @@
     "url": "https://lofty.tools/",
     "icon": "https://icons.duckduckgo.com/ip3/lofty.tools.ico",
     "slug": "lofty-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -347,7 +347,9 @@
     "timeWeek": 217,
     "timeMonth": 253,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   },
   {
     "name": "Spookfish Server",
@@ -366,7 +368,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 34,
+      "2025-08-25": 652,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
