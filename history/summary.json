@@ -10,11 +10,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.58%",
-    "time": 2889,
-    "timeDay": 2262,
-    "timeWeek": 2807,
-    "timeMonth": 3034,
-    "timeYear": 2917,
+    "time": 2888,
+    "timeDay": 2337,
+    "timeWeek": 2521,
+    "timeMonth": 3007,
+    "timeYear": 2916,
     "dailyMinutesDown": {
       "2025-08-24": 19,
       "2025-07-14": 94,
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "58.95%",
+    "uptime": "58.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "25.60%",
-    "time": 7824,
+    "time": 7801,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4225,
+    "timeYear": 4163,
     "dailyMinutesDown": {
-      "2025-08-26": 1092,
+      "2025-08-27": 32,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -327,8 +328,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   },
   {
@@ -338,17 +338,17 @@
     "slug": "lofty-tools",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 249,
-    "timeWeek": 219,
-    "timeMonth": 245,
-    "timeYear": 254,
+    "timeDay": 237,
+    "timeWeek": 228,
+    "timeMonth": 248,
+    "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-08-26": 26
+      "2025-08-26": 16
     }
   },
   {
@@ -368,7 +368,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-26": 1092,
+      "2025-08-27": 32,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -731,8 +732,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   }
 ]
