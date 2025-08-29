@@ -10,10 +10,10 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.58%",
-    "time": 2887,
-    "timeDay": 2157,
-    "timeWeek": 2509,
-    "timeMonth": 2948,
+    "time": 2886,
+    "timeDay": 2221,
+    "timeWeek": 2412,
+    "timeMonth": 2904,
     "timeYear": 2916,
     "dailyMinutesDown": {
       "2025-08-24": 19,
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "58.86%",
+    "uptime": "58.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "25.60%",
-    "time": 7779,
+    "time": 7756,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4104,
+    "timeYear": 4044,
     "dailyMinutesDown": {
-      "2025-08-28": 1026,
+      "2025-08-29": 32,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -327,8 +328,7 @@
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
-      "2024-08-30": 1440,
-      "2024-08-29": 1440
+      "2024-08-30": 1440
     }
   },
   {
@@ -338,17 +338,16 @@
     "slug": "lofty-tools",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 327,
-    "timeWeek": 264,
-    "timeMonth": 259,
+    "timeDay": 293,
+    "timeWeek": 271,
+    "timeMonth": 261,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-08-28": 8,
       "2025-08-27": 47,
       "2025-08-26": 16
     }
@@ -370,7 +369,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 1026,
+      "2025-08-29": 32,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -733,8 +733,7 @@
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
-      "2024-08-30": 1440,
-      "2024-08-29": 1440
+      "2024-08-30": 1440
     }
   }
 ]
