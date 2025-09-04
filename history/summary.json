@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 3664,
     "dailyMinutesDown": {
-      "2025-09-04": 424,
+      "2025-09-04": 572,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
@@ -336,19 +336,19 @@
     "url": "https://lofty.tools/",
     "icon": "https://icons.duckduckgo.com/ip3/lofty.tools.ico",
     "slug": "lofty-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 188,
+    "timeDay": 210,
     "timeWeek": 244,
     "timeMonth": 259,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-09-04": 8,
+      "2025-09-04": 0,
       "2025-08-27": 47,
       "2025-08-26": 16
     }
@@ -370,7 +370,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-04": 424,
+      "2025-09-04": 573,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
