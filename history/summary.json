@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.58%",
     "time": 2870,
-    "timeDay": 2116,
-    "timeWeek": 2573,
-    "timeMonth": 2419,
-    "timeYear": 2900,
+    "timeDay": 2107,
+    "timeWeek": 2587,
+    "timeMonth": 2418,
+    "timeYear": 2899,
     "dailyMinutesDown": {
       "2025-08-24": 19,
       "2025-07-14": 94,
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "57.78%",
+    "uptime": "57.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "25.60%",
-    "time": 7284,
+    "time": 7258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2393,
+    "timeYear": 2306,
     "dailyMinutesDown": {
-      "2025-09-22": 35,
+      "2025-09-23": 31,
+      "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -327,8 +328,7 @@
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
-      "2024-09-24": 1440,
-      "2024-09-23": 1440
+      "2024-09-24": 1440
     }
   },
   {
@@ -343,10 +343,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 261,
-    "timeDay": 355,
-    "timeWeek": 286,
-    "timeMonth": 263,
-    "timeYear": 256,
+    "timeDay": 225,
+    "timeWeek": 283,
+    "timeMonth": 264,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2025-08-27": 47,
       "2025-08-26": 16
@@ -358,7 +358,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "21.55%",
+    "uptime": "21.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -369,7 +369,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-22": 35,
+      "2025-09-23": 31,
+      "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -732,8 +733,7 @@
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
-      "2024-09-24": 1440,
-      "2024-09-23": 1440
+      "2024-09-24": 1440
     }
   }
 ]
