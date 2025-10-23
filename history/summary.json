@@ -6,17 +6,16 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 2842,
-    "timeDay": 1806,
-    "timeWeek": 2198,
-    "timeMonth": 2148,
-    "timeYear": 2856,
+    "time": 2841,
+    "timeDay": 1713,
+    "timeWeek": 2183,
+    "timeMonth": 2142,
+    "timeYear": 2855,
     "dailyMinutesDown": {
-      "2025-10-22": 7,
       "2025-08-24": 19,
       "2025-07-14": 94,
       "2025-07-10": 15,
@@ -47,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "56.47%",
+    "uptime": "56.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "25.60%",
-    "time": 6541,
+    "time": 6506,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2025-10-22": 1308,
+      "2025-10-23": 32,
+      "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -328,8 +328,7 @@
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1306,
-      "2024-10-24": 919,
-      "2024-10-23": 1440
+      "2024-10-24": 919
     }
   },
   {
@@ -343,10 +342,10 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 265,
-    "timeDay": 393,
-    "timeWeek": 522,
-    "timeMonth": 367,
+    "time": 264,
+    "timeDay": 178,
+    "timeWeek": 546,
+    "timeMonth": 366,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-10-20": 26,
@@ -360,7 +359,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "21.01%",
+    "uptime": "21.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -371,7 +370,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1308,
+      "2025-10-23": 32,
+      "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -734,8 +734,7 @@
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
-      "2024-10-24": 1440,
-      "2024-10-23": 1440
+      "2024-10-24": 1440
     }
   }
 ]
