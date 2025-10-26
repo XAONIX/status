@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 2839,
-    "timeDay": 2269,
-    "timeWeek": 2057,
-    "timeMonth": 2160,
+    "time": 2837,
+    "timeDay": 2385,
+    "timeWeek": 2087,
+    "timeMonth": 2176,
     "timeYear": 2853,
     "dailyMinutesDown": {
       "2025-08-24": 19,
@@ -50,14 +50,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "25.27%",
-    "time": 6473,
+    "uptimeYear": "25.22%",
+    "time": 6439,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 620,
     "dailyMinutesDown": {
-      "2025-10-25": 1230,
+      "2025-10-26": 35,
+      "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
@@ -339,17 +340,16 @@
     "slug": "lofty-tools",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 266,
-    "timeDay": 174,
-    "timeWeek": 520,
-    "timeMonth": 345,
-    "timeYear": 268,
+    "timeDay": 413,
+    "timeWeek": 555,
+    "timeMonth": 341,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-10-25": 10,
       "2025-10-20": 26,
       "2025-08-27": 47,
       "2025-08-26": 16
@@ -372,7 +372,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 1230,
+      "2025-10-26": 35,
+      "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
@@ -735,8 +736,7 @@
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
-      "2024-10-27": 1440,
-      "2024-10-26": 1440
+      "2024-10-27": 1440
     }
   }
 ]
