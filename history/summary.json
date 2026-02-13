@@ -4,7 +4,7 @@
     "url": "https://xaonix.com/",
     "icon": "https://icons.duckduckgo.com/ip3/xaonix.com.ico",
     "slug": "xaonix-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.06%",
@@ -62,7 +62,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 48,
+      "2026-02-13": 213,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -470,7 +470,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 48,
+      "2026-02-13": 213,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
