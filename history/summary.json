@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.54%",
-    "time": 2862,
-    "timeDay": 4179,
-    "timeWeek": 3415,
-    "timeMonth": 2890,
-    "timeYear": 2819,
+    "time": 2860,
+    "timeDay": 2456,
+    "timeWeek": 3397,
+    "timeMonth": 2888,
+    "timeYear": 2818,
     "dailyMinutesDown": {
       "2026-02-23": 20,
       "2026-02-14": 32,
@@ -54,18 +54,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "51.74%",
+    "uptime": "51.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 629,
+    "time": 619,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-23": 1245,
+      "2026-02-24": 43,
+      "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -428,8 +429,7 @@
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
-      "2025-02-25": 1440,
-      "2025-02-24": 1440
+      "2025-02-25": 1440
     }
   },
   {
@@ -444,10 +444,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 271,
-    "timeDay": 152,
-    "timeWeek": 303,
-    "timeMonth": 311,
-    "timeYear": 268,
+    "timeDay": 288,
+    "timeWeek": 238,
+    "timeMonth": 309,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2025-12-19": 28,
       "2025-12-12": 41,
@@ -473,7 +473,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-23": 1245,
+      "2026-02-24": 43,
+      "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -836,8 +837,7 @@
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
-      "2025-02-25": 1440,
-      "2025-02-24": 1440
+      "2025-02-25": 1440
     }
   }
 ]
