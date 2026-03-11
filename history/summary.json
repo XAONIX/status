@@ -6,14 +6,14 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.75%",
-    "time": 2839,
-    "timeDay": 2801,
-    "timeWeek": 2621,
-    "timeMonth": 2616,
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.77%",
+    "time": 2838,
+    "timeDay": 2154,
+    "timeWeek": 2593,
+    "timeMonth": 2597,
     "timeYear": 2791,
     "dailyMinutesDown": {
       "2026-03-10": 23,
@@ -47,8 +47,7 @@
       "2025-03-25": 26,
       "2025-03-22": 29,
       "2025-03-21": 20,
-      "2025-03-20": 33,
-      "2025-03-11": 66
+      "2025-03-20": 33
     }
   },
   {
@@ -57,18 +56,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "51.24%",
+    "uptime": "51.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 619,
+    "time": 617,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-10": 428,
+      "2026-03-11": 42,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -431,8 +431,7 @@
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
-      "2025-03-12": 1440,
-      "2025-03-11": 1440
+      "2025-03-12": 1440
     }
   },
   {
@@ -447,9 +446,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 270,
-    "timeDay": 168,
-    "timeWeek": 253,
-    "timeMonth": 299,
+    "timeDay": 197,
+    "timeWeek": 258,
+    "timeMonth": 291,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-12-19": 28,
@@ -465,7 +464,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "18.86%",
+    "uptime": "18.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -476,7 +475,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-10": 428,
+      "2026-03-11": 42,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -839,8 +839,7 @@
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
-      "2025-03-12": 1440,
-      "2025-03-11": 1440
+      "2025-03-12": 1440
     }
   }
 ]
