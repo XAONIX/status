@@ -6,17 +6,17 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.75%",
-    "time": 2794,
-    "timeDay": 2495,
-    "timeWeek": 2594,
-    "timeMonth": 2566,
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.76%",
+    "time": 2792,
+    "timeDay": 2473,
+    "timeWeek": 2614,
+    "timeMonth": 2506,
     "timeYear": 2771,
     "dailyMinutesDown": {
-      "2026-03-22": 33,
+      "2026-03-22": 19,
       "2026-03-17": 24,
       "2026-03-16": 94,
       "2026-03-15": 20,
@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "50.83%",
+    "uptime": "50.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 621,
+    "time": 619,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-22": 626,
+      "2026-03-23": 49,
+      "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
@@ -433,8 +434,7 @@
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
-      "2025-03-24": 1440,
-      "2025-03-23": 1440
+      "2025-03-24": 1440
     }
   },
   {
@@ -449,8 +449,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 270,
-    "timeDay": 294,
-    "timeWeek": 317,
+    "timeDay": 166,
+    "timeWeek": 292,
     "timeMonth": 279,
     "timeYear": 270,
     "dailyMinutesDown": {
@@ -467,7 +467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "18.69%",
+    "uptime": "18.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -478,7 +478,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-22": 626,
+      "2026-03-23": 49,
+      "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
@@ -841,8 +842,7 @@
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
-      "2025-03-24": 1440,
-      "2025-03-23": 1440
+      "2025-03-24": 1440
     }
   }
 ]
