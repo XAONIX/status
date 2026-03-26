@@ -8,13 +8,13 @@
     "uptime": "99.82%",
     "uptimeDay": "98.25%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.13%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.76%",
-    "time": 2789,
-    "timeDay": 1850,
-    "timeWeek": 2312,
-    "timeMonth": 2501,
-    "timeYear": 2748,
+    "time": 2775,
+    "timeDay": 1891,
+    "timeWeek": 2303,
+    "timeMonth": 2491,
+    "timeYear": 2742,
     "dailyMinutesDown": {
       "2026-03-25": 25,
       "2026-03-22": 19,
@@ -49,8 +49,7 @@
       "2025-06-27": 32,
       "2025-06-26": 3,
       "2025-05-11": 163,
-      "2025-03-27": 95,
-      "2025-03-26": 26
+      "2025-03-27": 95
     }
   },
   {
@@ -59,18 +58,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "50.73%",
+    "uptime": "50.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 618,
+    "time": 619,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-25": 372,
+      "2026-03-26": 50,
+      "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
@@ -433,8 +433,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   },
   {
@@ -449,9 +448,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 270,
-    "timeDay": 225,
-    "timeWeek": 227,
-    "timeMonth": 268,
+    "timeDay": 186,
+    "timeWeek": 231,
+    "timeMonth": 266,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2025-12-19": 28,
@@ -467,7 +466,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "18.65%",
+    "uptime": "18.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -478,7 +477,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-25": 372,
+      "2026-03-26": 50,
+      "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
@@ -841,8 +841,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   }
 ]
