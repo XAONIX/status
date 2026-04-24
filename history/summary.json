@@ -6,15 +6,15 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "97.95%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "98.30%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "99.68%",
     "time": 2760,
-    "timeDay": 2087,
-    "timeWeek": 2659,
-    "timeMonth": 2589,
-    "timeYear": 2725,
+    "timeDay": 2268,
+    "timeWeek": 2805,
+    "timeMonth": 2580,
+    "timeYear": 2726,
     "dailyMinutesDown": {
       "2026-04-23": 40,
       "2026-04-22": 69,
@@ -72,18 +72,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "49.77%",
+    "uptime": "49.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 623,
+    "time": 620,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-23": 587,
+      "2026-04-24": 58,
+      "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -446,8 +447,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
-      "2025-04-25": 1440,
-      "2025-04-24": 1440
+      "2025-04-25": 1440
     }
   },
   {
@@ -461,10 +461,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 271,
-    "timeDay": 116,
-    "timeWeek": 224,
-    "timeMonth": 218,
+    "time": 270,
+    "timeDay": 134,
+    "timeWeek": 227,
+    "timeMonth": 219,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-12-19": 28,
@@ -491,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-23": 587,
+      "2026-04-24": 58,
+      "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -854,8 +855,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
-      "2025-04-25": 1440,
-      "2025-04-24": 1440
+      "2025-04-25": 1440
     }
   }
 ]
