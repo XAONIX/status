@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xaonix.com.ico",
     "slug": "xaonix-com",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "98.24%",
     "uptimeWeek": "97.17%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "99.63%",
-    "time": 2762,
-    "timeDay": 2509,
-    "timeWeek": 2898,
-    "timeMonth": 2603,
-    "timeYear": 2733,
+    "time": 2761,
+    "timeDay": 2026,
+    "timeWeek": 2840,
+    "timeMonth": 2597,
+    "timeYear": 2732,
     "dailyMinutesDown": {
       "2026-04-30": 25,
       "2026-04-29": 189,
@@ -80,15 +80,16 @@
     "uptime": "49.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 628,
+    "time": 624,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-30": 1293,
+      "2026-05-01": 67,
+      "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
@@ -451,8 +452,7 @@
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
-      "2025-05-02": 1440,
-      "2025-05-01": 1440
+      "2025-05-02": 1440
     }
   },
   {
@@ -467,9 +467,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 270,
-    "timeDay": 206,
-    "timeWeek": 203,
-    "timeMonth": 224,
+    "timeDay": 160,
+    "timeWeek": 207,
+    "timeMonth": 214,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-12-19": 28,
@@ -485,10 +485,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "18.17%",
+    "uptime": "18.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -496,7 +496,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-30": 1293,
+      "2026-05-01": 67,
+      "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
@@ -859,8 +860,7 @@
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
-      "2025-05-02": 1440,
-      "2025-05-01": 1440
+      "2025-05-02": 1440
     }
   }
 ]
