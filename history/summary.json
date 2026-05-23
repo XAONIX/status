@@ -10,11 +10,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "99.60%",
-    "time": 2795,
-    "timeDay": 1632,
-    "timeWeek": 2002,
-    "timeMonth": 3068,
-    "timeYear": 2777,
+    "time": 2787,
+    "timeDay": 2064,
+    "timeWeek": 2036,
+    "timeMonth": 3076,
+    "timeYear": 2778,
     "dailyMinutesDown": {
       "2026-05-22": 24,
       "2026-05-18": 48,
@@ -87,13 +87,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 637,
+    "time": 638,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-22": 1379,
+      "2026-05-23": 66,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -456,8 +457,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -472,9 +472,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 274,
-    "timeDay": 122,
-    "timeWeek": 156,
-    "timeMonth": 322,
+    "timeDay": 70,
+    "timeWeek": 128,
+    "timeMonth": 321,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-12-19": 28,
@@ -490,7 +490,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "17.89%",
+    "uptime": "17.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -501,7 +501,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-22": 1379,
+      "2026-05-23": 66,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -864,8 +865,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   }
 ]
