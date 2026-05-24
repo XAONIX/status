@@ -4,17 +4,17 @@
     "url": "https://xaonix.com/",
     "icon": "https://icons.duckduckgo.com/ip3/xaonix.com.ico",
     "slug": "xaonix-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "99.60%",
-    "time": 2773,
-    "timeDay": 2027,
-    "timeWeek": 2020,
-    "timeMonth": 3066,
-    "timeYear": 2776,
+    "time": 2772,
+    "timeDay": 2010,
+    "timeWeek": 2017,
+    "timeMonth": 3042,
+    "timeYear": 2774,
     "dailyMinutesDown": {
       "2025-06-27": 32,
       "2025-06-26": 3,
@@ -75,7 +75,7 @@
       "2026-05-18": 48,
       "2026-05-22": 24,
       "2026-05-23": 22,
-      "2026-05-24": 1
+      "2026-05-24": 24
     }
   },
   {
@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 1234,
+      "2026-05-24": 1258,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -470,8 +470,8 @@
     "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.65%",
-    "uptimeMonth": "94.40%",
+    "uptimeWeek": "75.41%",
+    "uptimeMonth": "94.34%",
     "uptimeYear": "99.50%",
     "time": 274,
     "timeDay": 0,
@@ -484,7 +484,7 @@
       "2025-10-20": 26,
       "2025-12-12": 41,
       "2025-12-19": 28,
-      "2026-05-24": 1234,
+      "2026-05-24": 1258,
       "2026-05-23": 1221
     }
   },
@@ -505,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 1234,
+      "2026-05-24": 1258,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
