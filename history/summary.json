@@ -6,15 +6,15 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "99.60%",
-    "time": 2771,
-    "timeDay": 1899,
-    "timeWeek": 1908,
+    "time": 2769,
+    "timeDay": 1673,
+    "timeWeek": 1829,
     "timeMonth": 3042,
-    "timeYear": 2772,
+    "timeYear": 2771,
     "dailyMinutesDown": {
       "2025-06-27": 32,
       "2025-06-26": 3,
@@ -84,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "48.77%",
+    "uptime": "48.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 640,
+    "time": 635,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 73,
+      "2026-05-26": 67,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -458,8 +459,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   },
   {
@@ -468,15 +468,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lofty.tools.ico",
     "slug": "lofty-tools",
     "status": "down",
-    "uptime": "99.86%",
+    "uptime": "99.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.88%",
-    "uptimeMonth": "93.76%",
-    "uptimeYear": "99.45%",
+    "uptimeWeek": "58.65%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "99.18%",
     "time": 274,
     "timeDay": 0,
-    "timeWeek": 134,
-    "timeMonth": 335,
+    "timeWeek": 120,
+    "timeMonth": 334,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-08-26": 16,
@@ -484,7 +484,8 @@
       "2025-10-20": 26,
       "2025-12-12": 41,
       "2025-12-19": 28,
-      "2026-05-25": 73,
+      "2026-05-26": 68,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1221
     }
@@ -495,7 +496,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "17.86%",
+    "uptime": "17.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -506,7 +507,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 73,
+      "2026-05-26": 68,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -869,8 +871,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   }
 ]
