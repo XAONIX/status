@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.56%",
-    "uptimeMonth": "88.30%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "88.46%",
     "uptimeYear": "98.52%",
     "time": 2741,
-    "timeDay": 2168,
-    "timeWeek": 2377,
-    "timeMonth": 2898,
-    "timeYear": 2700,
+    "timeDay": 2923,
+    "timeWeek": 2326,
+    "timeMonth": 2483,
+    "timeYear": 2699,
     "dailyMinutesDown": {
       "2026-05-24": 24,
       "2026-05-27": 25,
@@ -76,7 +76,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "46.94%",
+    "uptime": "46.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -87,7 +87,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 206,
+      "2026-07-26": 219,
+      "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -450,8 +451,7 @@
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
-      "2025-07-27": 1440,
-      "2025-07-26": 1440
+      "2025-07-27": 1440
     }
   },
   {
@@ -460,11 +460,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lofty.tools.ico",
     "slug": "lofty-tools",
     "status": "down",
-    "uptime": "95.77%",
+    "uptime": "95.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.71%",
+    "uptimeYear": "82.44%",
     "time": 275,
     "timeDay": 0,
     "timeWeek": 0,
@@ -476,7 +476,8 @@
       "2025-10-20": 26,
       "2025-12-12": 41,
       "2025-12-19": 28,
-      "2026-07-25": 206,
+      "2026-07-26": 219,
+      "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -548,7 +549,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "17.13%",
+    "uptime": "17.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -559,7 +560,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 206,
+      "2026-07-26": 219,
+      "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -922,8 +924,7 @@
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
-      "2025-07-27": 1440,
-      "2025-07-26": 1440
+      "2025-07-27": 1440
     }
   }
 ]
