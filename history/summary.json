@@ -6,14 +6,14 @@
     "slug": "xaonix-com",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "92.88%",
+    "uptimeDay": "93.34%",
     "uptimeWeek": "93.65%",
-    "uptimeMonth": "89.14%",
+    "uptimeMonth": "89.45%",
     "uptimeYear": "98.47%",
     "time": 2759,
-    "timeDay": 4690,
-    "timeWeek": 3709,
-    "timeMonth": 2663,
+    "timeDay": 4492,
+    "timeWeek": 3771,
+    "timeMonth": 2699,
     "timeYear": 2712,
     "dailyMinutesDown": {
       "2026-06-06": 120,
@@ -76,7 +76,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "46.75%",
+    "uptime": "46.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -87,7 +87,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 1079,
+      "2026-08-01": 216,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -450,8 +451,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   },
   {
@@ -460,23 +460,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/lofty.tools.ico",
     "slug": "lofty-tools",
     "status": "down",
-    "uptime": "95.34%",
+    "uptime": "95.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.90%",
+    "uptimeYear": "80.79%",
     "time": 276,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 283,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2025-08-26": 16,
       "2025-08-27": 47,
       "2025-10-20": 26,
       "2025-12-12": 41,
       "2025-12-19": 28,
-      "2026-07-31": 1079,
+      "2026-08-01": 216,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -565,7 +566,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 1079,
+      "2026-08-01": 216,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -928,8 +930,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   }
 ]
