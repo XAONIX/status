@@ -8,13 +8,13 @@
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.72%",
+    "uptimeMonth": "95.89%",
     "uptimeYear": "98.51%",
-    "time": 2886,
-    "timeDay": 6094,
-    "timeWeek": 4177,
-    "timeMonth": 4098,
-    "timeYear": 2862,
+    "time": 2887,
+    "timeDay": 3498,
+    "timeWeek": 4092,
+    "timeMonth": 4120,
+    "timeYear": 2863,
     "dailyMinutesDown": {
       "2026-06-23": 44,
       "2026-06-24": 34,
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "45.85%",
+    "uptime": "45.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -86,7 +86,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 247,
+      "2026-09-03": 245,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -449,8 +450,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -462,13 +462,13 @@
     "uptime": "93.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "30.39%",
+    "uptimeMonth": "33.67%",
     "uptimeYear": "74.72%",
     "time": 284,
-    "timeDay": 368,
-    "timeWeek": 565,
-    "timeMonth": 533,
-    "timeYear": 296,
+    "timeDay": 380,
+    "timeWeek": 542,
+    "timeMonth": 521,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2025-10-20": 26,
       "2025-12-12": 41,
@@ -576,7 +576,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "16.69%",
+    "uptime": "16.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -587,7 +587,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 247,
+      "2026-09-03": 245,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -950,8 +951,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   }
 ]
