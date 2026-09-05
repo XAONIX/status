@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.97%",
     "uptimeYear": "98.51%",
-    "time": 2886,
-    "timeDay": 2097,
-    "timeWeek": 3985,
-    "timeMonth": 4090,
-    "timeYear": 2862,
+    "time": 2888,
+    "timeDay": 2938,
+    "timeWeek": 4033,
+    "timeMonth": 4120,
+    "timeYear": 2865,
     "dailyMinutesDown": {
       "2026-06-23": 44,
       "2026-06-24": 34,
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "45.79%",
+    "uptime": "45.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -86,7 +86,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-04": 249,
+      "2026-09-05": 38,
+      "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
@@ -449,8 +450,7 @@
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
-      "2025-09-06": 1440,
-      "2025-09-05": 1440
+      "2025-09-06": 1440
     }
   },
   {
@@ -458,17 +458,17 @@
     "url": "https://lofty.tools/",
     "icon": "https://icons.duckduckgo.com/ip3/lofty.tools.ico",
     "slug": "lofty-tools",
-    "status": "up",
-    "uptime": "93.96%",
-    "uptimeDay": "81.85%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "36.37%",
+    "status": "down",
+    "uptime": "93.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "39.18%",
     "uptimeYear": "74.67%",
     "time": 285,
-    "timeDay": 287,
-    "timeWeek": 450,
+    "timeDay": 242,
+    "timeWeek": 462,
     "timeMonth": 490,
-    "timeYear": 299,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2025-10-20": 26,
       "2025-12-12": 41,
@@ -568,7 +568,8 @@
       "2026-05-23": 1221,
       "2026-08-26": 71,
       "2026-08-25": 3,
-      "2026-09-03": 261
+      "2026-09-03": 261,
+      "2026-09-05": 0
     }
   },
   {
@@ -577,7 +578,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "16.67%",
+    "uptime": "16.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -588,7 +589,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-04": 249,
+      "2026-09-05": 38,
+      "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
@@ -951,8 +953,7 @@
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
-      "2025-09-06": 1440,
-      "2025-09-05": 1440
+      "2025-09-06": 1440
     }
   }
 ]
