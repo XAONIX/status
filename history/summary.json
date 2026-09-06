@@ -8,13 +8,13 @@
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.97%",
+    "uptimeMonth": "96.60%",
     "uptimeYear": "98.51%",
     "time": 2888,
-    "timeDay": 3778,
-    "timeWeek": 4226,
-    "timeMonth": 4120,
-    "timeYear": 2865,
+    "timeDay": 2570,
+    "timeWeek": 4159,
+    "timeMonth": 4096,
+    "timeYear": 2864,
     "dailyMinutesDown": {
       "2026-06-23": 44,
       "2026-06-24": 34,
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "45.76%",
+    "uptime": "45.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -86,7 +86,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 246,
+      "2026-09-06": 253,
+      "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -449,8 +450,7 @@
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
-      "2025-09-07": 1440,
-      "2025-09-06": 1440
+      "2025-09-07": 1440
     }
   },
   {
@@ -460,15 +460,15 @@
     "slug": "lofty-tools",
     "status": "up",
     "uptime": "93.97%",
-    "uptimeDay": "98.06%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.13%",
-    "uptimeMonth": "39.59%",
+    "uptimeMonth": "42.89%",
     "uptimeYear": "74.67%",
     "time": 286,
-    "timeDay": 341,
-    "timeWeek": 458,
-    "timeMonth": 480,
-    "timeYear": 300,
+    "timeDay": 754,
+    "timeWeek": 457,
+    "timeMonth": 496,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2025-10-20": 26,
       "2025-12-12": 41,
@@ -578,7 +578,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "16.66%",
+    "uptime": "16.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -589,7 +589,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 246,
+      "2026-09-06": 254,
+      "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -952,8 +953,7 @@
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
-      "2025-09-07": 1440,
-      "2025-09-06": 1440
+      "2025-09-07": 1440
     }
   }
 ]
