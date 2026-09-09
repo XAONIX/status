@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "45.65%",
+    "uptime": "45.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 390,
+      "2026-09-09": 920,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -458,13 +458,13 @@
     "url": "https://lofty.tools/",
     "icon": "https://icons.duckduckgo.com/ip3/lofty.tools.ico",
     "slug": "lofty-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "93.97%",
-    "uptimeDay": "79.10%",
+    "uptimeDay": "79.06%",
     "uptimeWeek": "94.14%",
-    "uptimeMonth": "52.38%",
+    "uptimeMonth": "53.59%",
     "uptimeYear": "74.61%",
-    "time": 289,
+    "time": 290,
     "timeDay": 517,
     "timeWeek": 473,
     "timeMonth": 507,
@@ -570,7 +570,7 @@
       "2026-08-25": 3,
       "2026-09-03": 261,
       "2026-09-05": 28,
-      "2026-09-09": 301
+      "2026-09-09": 302
     }
   },
   {
@@ -590,7 +590,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 390,
+      "2026-09-09": 920,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
