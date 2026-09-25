@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-25": 276,
+      "2026-09-25": 587,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
@@ -458,13 +458,13 @@
     "url": "https://lofty.tools/",
     "icon": "https://icons.duckduckgo.com/ip3/lofty.tools.ico",
     "slug": "lofty-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "94.01%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.04%",
     "uptimeMonth": "97.57%",
     "uptimeYear": "74.53%",
-    "time": 309,
+    "time": 310,
     "timeDay": 709,
     "timeWeek": 581,
     "timeMonth": 609,
@@ -571,7 +571,8 @@
       "2026-09-03": 261,
       "2026-09-05": 28,
       "2026-09-09": 504,
-      "2026-09-19": 197
+      "2026-09-19": 197,
+      "2026-09-25": 0
     }
   },
   {
@@ -591,7 +592,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-25": 276,
+      "2026-09-25": 587,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
