@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
-    "time": 2901,
-    "timeDay": 4507,
-    "timeWeek": 3219,
-    "timeMonth": 2941,
-    "timeYear": 2911,
+    "time": 2900,
+    "timeDay": 1848,
+    "timeWeek": 3148,
+    "timeMonth": 2916,
+    "timeYear": 2912,
     "dailyMinutesDown": {
       "2026-06-23": 44,
       "2026-06-24": 34,
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "44.77%",
+    "uptime": "44.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -86,7 +86,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 336,
+      "2026-10-13": 392,
+      "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -449,8 +450,7 @@
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
-      "2025-10-14": 1440,
-      "2025-10-13": 1440
+      "2025-10-14": 1440
     }
   },
   {
@@ -464,10 +464,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.96%",
     "uptimeYear": "74.40%",
-    "time": 325,
-    "timeDay": 516,
-    "timeWeek": 482,
-    "timeMonth": 598,
+    "time": 324,
+    "timeDay": 272,
+    "timeWeek": 447,
+    "timeMonth": 574,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2025-10-20": 26,
@@ -582,7 +582,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "16.27%",
+    "uptime": "16.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -593,7 +593,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 336,
+      "2026-10-13": 393,
+      "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -956,8 +957,7 @@
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
-      "2025-10-14": 1440,
-      "2025-10-13": 1440
+      "2025-10-14": 1440
     }
   }
 ]
