@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
-    "time": 2907,
-    "timeDay": 5630,
-    "timeWeek": 3618,
-    "timeMonth": 3115,
+    "time": 2905,
+    "timeDay": 2141,
+    "timeWeek": 3350,
+    "timeMonth": 3021,
     "timeYear": 2932,
     "dailyMinutesDown": {
       "2026-06-23": 44,
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "44.49%",
+    "uptime": "44.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -86,7 +86,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 265,
+      "2026-10-24": 256,
+      "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -449,8 +450,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   },
   {
@@ -465,10 +465,10 @@
     "uptimeMonth": "98.41%",
     "uptimeYear": "74.41%",
     "time": 347,
-    "timeDay": 746,
-    "timeWeek": 1382,
-    "timeMonth": 758,
-    "timeYear": 366,
+    "timeDay": 509,
+    "timeWeek": 1352,
+    "timeMonth": 759,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2025-12-12": 41,
       "2025-12-19": 28,
@@ -581,7 +581,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "16.15%",
+    "uptime": "16.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -592,7 +592,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 265,
+      "2026-10-24": 256,
+      "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -955,8 +956,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   }
 ]
