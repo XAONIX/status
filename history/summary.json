@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
-    "time": 2911,
-    "timeDay": 2283,
-    "timeWeek": 4232,
-    "timeMonth": 3369,
+    "time": 2907,
+    "timeDay": 2188,
+    "timeWeek": 3894,
+    "timeMonth": 3359,
     "timeYear": 2995,
     "dailyMinutesDown": {
       "2026-06-23": 44,
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genlex.app.ico",
     "slug": "gen-lex",
     "status": "down",
-    "uptime": "43.60%",
+    "uptime": "43.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -86,7 +86,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-27": 476,
+      "2026-11-28": 446,
+      "2026-11-27": 1440,
       "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
@@ -449,8 +450,7 @@
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
-      "2025-11-29": 1440,
-      "2025-11-28": 1440
+      "2025-11-29": 1440
     }
   },
   {
@@ -465,10 +465,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "74.41%",
     "time": 376,
-    "timeDay": 361,
-    "timeWeek": 498,
-    "timeMonth": 678,
-    "timeYear": 416,
+    "timeDay": 249,
+    "timeWeek": 473,
+    "timeMonth": 650,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2025-12-12": 41,
       "2025-12-19": 28,
@@ -581,7 +581,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spookfish-server",
     "status": "down",
-    "uptime": "15.80%",
+    "uptime": "15.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -592,7 +592,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-27": 476,
+      "2026-11-28": 446,
+      "2026-11-27": 1440,
       "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
@@ -955,8 +956,7 @@
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
-      "2025-11-29": 1440,
-      "2025-11-28": 1440
+      "2025-11-29": 1440
     }
   }
 ]
